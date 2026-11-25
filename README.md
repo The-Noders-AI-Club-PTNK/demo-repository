@@ -23,10 +23,6 @@
 Open the `index.html` file directly in a web browser.
 
 ---
-
-*The Noders PTNK © 2026 — PTNK Artificial Intelligence Club*
-
----
 ---
 
 # The Noders PTNK - Vercel Transfer & Sandbox Workflow Testbed
